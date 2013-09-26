@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name" >ListView Animation</string>
+  <string name="viewpropertyanimator_label" >ViewPropertyAnimator</string>
+</resources>

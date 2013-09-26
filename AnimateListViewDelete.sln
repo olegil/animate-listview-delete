@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimateListViewDelete", "AnimateListViewDelete.csproj", "{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6AA1B0-DA14-4BEF-9B03-280CFAD97FFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ListViewAnimation\ListViewAnimation.csproj
+	EndGlobalSection
+EndGlobal
